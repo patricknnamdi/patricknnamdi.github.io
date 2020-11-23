@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 My research focuses on learning behavioral patterns and treatment strategies that improve patient recovery after a clinical or surgical intervention. The methods I seek to develop leverage the use data that has been collected from smartphones as part of an ongoing collaboration with the Department of Neurosurgery at the Brigham and Women’s Hospital in order to derive metrics that capture a patient’s physical activity, mobility, and pain response. My current goals include: 
-1. constructing offline reinforcement learning methods to estimate optimal recovery strategies for surgical patients that are interpretable and that quantify decision-making uncertainty
-1. predicting post-operative recovery patterns in longitudinal data. 
+1. Constructing offline reinforcement learning methods to estimate optimal recovery strategies for surgical patients that are interpretable and that quantify decision-making uncertainty
+1. Predicting post-operative recovery patterns in longitudinal data. 
 
 
 A data-driven personal website
