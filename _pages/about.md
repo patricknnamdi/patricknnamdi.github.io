@@ -12,7 +12,7 @@ My research focuses on learning **behavioral patterns and treatment strategies**
 
 My current goals include: 
 1. Constructing **offline reinforcement learning methods** to estimate recovery strategies for surgical patients that are interpretable and quantify decision-making uncertainty
-1. Predicting post-operative recovery patterns in temporally dense, longitudinal data using **latent state space models**. 
+1. Predicting **post-operative recovery patterns** in temporally dense, longitudinal data using **latent state space models**. 
 
 
 ## Education
