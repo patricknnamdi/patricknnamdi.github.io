@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a current third year biostatistics PhD Student at Harvard University studying **digital phenotyping and machine learning** within [the Onnela Lab](https://www.hsph.harvard.edu/onnela-lab/). 
+I'm a current third year biostatistics PhD Student at Harvard University studying **digital phenotyping and machine learning** within the [Onnela Lab](https://www.hsph.harvard.edu/onnela-lab/). 
 
 My research focuses on learning **behavioral patterns and treatment strategies** that improve **patient recovery** after a clinical or surgical intervention. The methods I seek to develop leverage the use **digital phenotyping data** that has been collected from **smartphones** as part of an ongoing collaboration with the Department of Neurosurgery at the Brigham and Women’s Hospital in order to derive metrics that capture a patient’s physical activity, mobility, and pain response.
 
