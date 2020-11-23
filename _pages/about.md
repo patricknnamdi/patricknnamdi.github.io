@@ -25,6 +25,6 @@ My current goals include:
 <br> Harvard University
 <br><i>August 2018 - May 2020</i></p>
 
-<p style="margin-left: 40px"><b>B.A, Biostatistics</b>
+<p style="margin-left: 40px"><b>B.A, Mathematical Biology</b>
 <br> University of Pennsylvania
 <br><i>August 2013 - December 2017</i></p>
