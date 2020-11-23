@@ -16,6 +16,7 @@ My current goals include:
 1. Constructing **offline reinforcement learning methods** to estimate recovery strategies for surgical patients that are interpretable and quantify decision-making uncertainty
 1. Predicting **post-operative recovery patterns** in temporally dense, longitudinal data using **latent state space models**. 
 
+For my undergraduate career, I had the pleasure of working for Dr. Micheal Levy, who research focuses on developing epidemiological and computational methods for controlling the spread infectious diseases via insect vectors.
 
 ## Education
 
