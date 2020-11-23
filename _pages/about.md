@@ -30,3 +30,7 @@ My current goals include:
 <p style="margin-left: 40px"><b>B.A, Mathematical Biology</b>
 <br> University of Pennsylvania
 <br><i>August 2013 - May 2017</i></p>
+
+## News
+
+## Presentations
