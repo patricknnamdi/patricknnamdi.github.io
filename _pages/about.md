@@ -35,5 +35,5 @@ For my undergraduate career, I had the pleasure of working for [Dr. Micheal Levy
 
 ## News
 [March 2021] ENAR Spring 2021 – Fostering Diversity in Biostatistics (Panelist) \
-[October 2020] NOC Symposium (Best Abstract Award) – Pain Score Prediction using Digital Phenotyping (Presentation) \
+[October 2020] CNOC Symposium (Best Abstract Award) – Pain Score Prediction using Digital Phenotyping (Presentation) \
 [July 2020] Daniel Fulford’s AMP Lab – Hidden Markov Models and Digital Phenotyping (Presentation) 
