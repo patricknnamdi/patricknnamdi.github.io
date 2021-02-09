@@ -20,9 +20,17 @@ For my undergraduate career, I had the pleasure of working for [Dr. Micheal Levy
 
 ## Education
 
-Quantitative Methods in Monitoring and Evaluation (BST 216)
-Harvard University
-August 2018 - Present
+<p style="margin-left: 40px"><b>Ph.D., Biostatistics</b>
+<br> Harvard University
+<br><i>August 2018 - Present</i></p>
+
+<p style="margin-left: 40px"><b>A.M., Biostatistics</b>
+<br> Harvard University
+<br><i>August 2018 - May 2020</i></p>
+
+<p style="margin-left: 40px"><b>B.A, Mathematical Biology</b>
+<br> University of Pennsylvania
+<br><i>August 2013 - May 2017</i></p>
 
 
 ## News
