@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a current third year biostatistics PhD Student at Harvard University studying **statistical machine learning** and **digital phenotyping** under the supervision of [Dr. Jukka-Pekka Onnela](https://www.hsph.harvard.edu/onnela-lab/) and [Dr. Junwei Lu](https://junwei-lu.github.io/). 
 
-My research focuses on learning behavioral patterns and treatment strategies that improve patient recovery after a clinical or surgical intervention. The methods I seek to develop leverage the use digital phenotyping data that has been collected from smartphones (using [Beiwe](https://www.beiwe.org/)) in order to derive metrics that capture a patient’s physical activity, mobility, and pain response. Furthermore, I’m generally interested in learning statistical methods that help make sense of high-dimensional data commonly seen in application of remote patient monitoring systems.
+My research focuses on learning behavioral patterns and treatment strategies that improve patient recovery after a clinical or surgical intervention. The methods I seek to develop leverage the use digital phenotyping data that has been collected from smartphones (using [Beiwe](https://www.beiwe.org/)) in order to derive metrics that capture a patient’s physical activity, mobility, and pain response. Furthermore, I’m generally interested in learning statistical methods that help make sense of data commonly seen in application of remote patient monitoring systems.
 
 My current goals include: 
 1. Constructing offline reinforcement learning methods to estimate recovery strategies for surgical patients that are interpretable and quantify decision-making uncertainty
@@ -35,6 +35,9 @@ For my undergraduate career, I had the pleasure of working for [Dr. Micheal Levy
 
 ## News
 **[March 2021]** ENAR Spring 2021 – Fostering Diversity in Biostatistics (Panelist) \
+**[February 2021]** Harvard Biostatistics Student Seminar - Nonparametric Q-Function Approximation (Lightning Talk) \
+**[February 2021]** Co-moderated Black Voices & Visions Panel for Harvard GSAS Student Center \
 **[October 2020]** CNOC Symposium (**Best Abstract Award**) – Pain Score Prediction using Digital Phenotyping (Presentation) \
 **[July 2020]** Dr. Dan Fulford’s AMP Lab – Hidden Markov Models and Digital Phenotyping (Presentation) \
+**[May 2020]** Awarded Masters of Arts (AM) in Biostatistics from Harvard University \
 **[January 2020]** Passed Harvard Biostatistics Doctoral Written Qualifying Exam
